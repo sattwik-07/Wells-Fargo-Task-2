@@ -94,3 +94,9 @@ Completed the Wells Fargo Software Engineering Virtual Experience Program on For
 
 - [Forage](https://www.theforage.com/) for providing the virtual work simulation
 - [Wells Fargo](https://www.wellsfargo.com/) for the program content
+
+---
+
+## 👤 Author
+
+Done by **Sattwik** — [GitHub](https://github.com/sattwik-07)
