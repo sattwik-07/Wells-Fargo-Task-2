@@ -83,11 +83,6 @@ The application starts on `http://localhost:8080` by default.
 
 ---
 
-## Certificate
-<img width="530" height="408" alt="Screenshot 2026-06-06 010013" src="https://github.com/user-attachments/assets/964b3f7d-d236-404f-b699-2e8e06392327" />
-
-Completed the Wells Fargo Software Engineering Virtual Experience Program on Forage.
-
 ---
 
 ## Acknowledgements
